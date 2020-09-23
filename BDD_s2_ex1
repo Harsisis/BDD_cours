@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T09:14:41.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.7.3" etag="kCjPw_ctGn005QgFn83k" type="github"><diagram id="XsTxY2w5fCExA59ifIsu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-23T09:35:30.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="5-Wnv5hNHL1EwFfMWcz6" version="13.7.3" type="github">
+  <diagram id="XsTxY2w5fCExA59ifIsu" name="Page-1">
+    <mxGraphModel dx="694" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-1" value="U" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-2" value="*A" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pydbOMZlQq3b3E4B6XdH-1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-3" value="B" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pydbOMZlQq3b3E4B6XdH-1">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-4" value="C" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pydbOMZlQq3b3E4B6XdH-1">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-5" value="F" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-6" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pydbOMZlQq3b3E4B6XdH-5">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-7" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pydbOMZlQq3b3E4B6XdH-5">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-8" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="pydbOMZlQq3b3E4B6XdH-5">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-9" value="A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-10" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="20" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-11" value="C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-13" value="{A}+ = {A, B, C}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-14" value="{C}+ = {C}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-15" value="{B}+ = {B, C}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-16" value="Comme on a :&lt;br&gt;F+ = {A--&amp;gt;B; B--&amp;gt;C} U {df transitives}&lt;br&gt;On peut avoir&lt;br&gt;F+ = {A--&amp;gt;B; B--&amp;gt;C} U {A--&amp;gt;C}&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pydbOMZlQq3b3E4B6XdH-18" value="CM(F) = F+ - {df redondantes}&lt;br&gt;tout ce qui est non élémentaires est redondant ou transitifs et considéré comme faisant partie des df redondantes&lt;br&gt;CM(F) = {A--&amp;gt;B; B--&amp;gt;C}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="240" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
